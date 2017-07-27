@@ -12,6 +12,7 @@ build
 *.iws
 *.ipr
 *.swp
+.externalNativeBuild/
 
 # built application files
 *.apk
